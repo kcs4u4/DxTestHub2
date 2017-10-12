@@ -1,0 +1,346 @@
+[
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1507808193914,
+            "changeTime": 1507808194028,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1507808193920,
+            "changeTime": 1507808193920,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1507808193967,
+            "changeTime": 1507808193967,
+            "contentHash": "0803afd433bedf4fb3c621888196f3a590a9c016",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507818324818,
+            "changeTime": 1507818324818,
+            "contentHash": "2af814c0d114e4f7901537c3a478a6dfe0832965"
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\Test.cls",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\Test.cls",
+            "isDirectory": false,
+            "size": 19,
+            "modifiedTime": 1507807706892,
+            "changeTime": 1507807706892,
+            "contentHash": "47c27d0c41fc0c255f4260f07a26380e48a73bca",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\Test.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\Test.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1507807706894,
+            "changeTime": 1507807706894,
+            "contentHash": "1884a4dc4bf0e61ae8be9e706248b512df5a8e79",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\Test1.cls",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\Test1.cls",
+            "isDirectory": false,
+            "size": 20,
+            "modifiedTime": 1507807706895,
+            "changeTime": 1507807706895,
+            "contentHash": "25bdd38f23f69899c42e9dca9b91e9a3ef60caf7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\Test1.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\Test1.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1507807706896,
+            "changeTime": 1507807706896,
+            "contentHash": "1884a4dc4bf0e61ae8be9e706248b512df5a8e79",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\Test2.cls",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\Test2.cls",
+            "isDirectory": false,
+            "size": 34,
+            "modifiedTime": 1507807706898,
+            "changeTime": 1507807706898,
+            "contentHash": "ce6220a6bab8ad43165ce3c1b23aae2f31638f2a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\Test2.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\Test2.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1507807706899,
+            "changeTime": 1507807706899,
+            "contentHash": "1884a4dc4bf0e61ae8be9e706248b512df5a8e79",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\Test3.cls",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\Test3.cls",
+            "isDirectory": false,
+            "size": 20,
+            "modifiedTime": 1507807706900,
+            "changeTime": 1507807706900,
+            "contentHash": "262a0d12c63e7c021b1486ba4a0cc11bc01c7350",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\Test3.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\Test3.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1507807706901,
+            "changeTime": 1507807706901,
+            "contentHash": "1884a4dc4bf0e61ae8be9e706248b512df5a8e79",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\pages",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1507818415596,
+            "changeTime": 1507818415596,
+            "contentHash": "65a83a494c8793a808ea46a6876938d4b02a7583",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\pages\\page1.page",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\pages\\page1.page",
+            "isDirectory": false,
+            "size": 169,
+            "modifiedTime": 1507807706904,
+            "changeTime": 1507807706904,
+            "contentHash": "c901a85eb7bcbfebac4ec34ec3660bace28a3c98",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\pages\\page1.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\pages\\page1.page-meta.xml",
+            "isDirectory": false,
+            "size": 288,
+            "modifiedTime": 1507807706905,
+            "changeTime": 1507807706905,
+            "contentHash": "1bef952b8ea211745ac6c1966858b702461ac8b9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\pages\\page3.page",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\pages\\page3.page",
+            "isDirectory": false,
+            "size": 169,
+            "modifiedTime": 1507807706906,
+            "changeTime": 1507807706906,
+            "contentHash": "c901a85eb7bcbfebac4ec34ec3660bace28a3c98",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\pages\\page3.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\pages\\page3.page-meta.xml",
+            "isDirectory": false,
+            "size": 288,
+            "modifiedTime": 1507807706908,
+            "changeTime": 1507807706908,
+            "contentHash": "3998fa641d81ce9b8309fa727817bae1f0269e6f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1507808193909,
+            "changeTime": 1507808193909,
+            "contentHash": "0c0a1208459d89834bf9f239018b3df0fea00136",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\class1.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\class1.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1507818237249,
+            "changeTime": 1507818237249,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\class1.cls",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\class1.cls",
+            "isDirectory": false,
+            "size": 23,
+            "modifiedTime": 1507818237250,
+            "changeTime": 1507818237250,
+            "contentHash": "099101119db7e519bf004ce70e8812e763aa3589",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\pages\\page4.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\pages\\page4.page-meta.xml",
+            "isDirectory": false,
+            "size": 281,
+            "modifiedTime": 1507818415595,
+            "changeTime": 1507818415595,
+            "contentHash": "58cb3da377a578105170717dc7e796f901ccfab3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\pages\\page4.page",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\pages\\page4.page",
+            "isDirectory": false,
+            "size": 164,
+            "modifiedTime": 1507818415597,
+            "changeTime": 1507818415597,
+            "contentHash": "1da39a8217ae203343495260ac27f79112281306",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\class2.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\class2.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 23,
+            "modifiedTime": 1507818333198,
+            "changeTime": 1507818333198,
+            "contentHash": "5594a00a1f5c46a68078321a82548d38313f871b"
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\class2.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\class2.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1507818237249,
+            "changeTime": 1507818324818,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef"
+        }
+    ]
+]

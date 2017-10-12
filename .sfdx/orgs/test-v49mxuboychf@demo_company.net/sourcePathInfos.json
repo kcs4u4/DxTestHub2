@@ -1,0 +1,114 @@
+[
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1507714325858,
+            "changeTime": 1507714325858,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1507714325859,
+            "changeTime": 1507714325859,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507715751318,
+            "changeTime": 1507715751318,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3"
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1507714325860,
+            "changeTime": 1507714325860,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX",
+        {
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1507714441776,
+            "changeTime": 1507714441776,
+            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\Test.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\Test.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1507715989087,
+            "changeTime": 1507715989087,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef"
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\Test.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes\\Test.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 19,
+            "modifiedTime": 1507715989090,
+            "changeTime": 1507715989090,
+            "contentHash": "47c27d0c41fc0c255f4260f07a26380e48a73bca"
+        }
+    ],
+    [
+        "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\chandrasekhar\\Desktop\\DX\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507715989089,
+            "changeTime": 1507715989089,
+            "contentHash": "ff593be83d8e2c267bf05b2818b3d29ca027fd8c"
+        }
+    ]
+]
